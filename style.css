@@ -1,0 +1,18 @@
+body {
+	background-color: #000000;
+}
+
+h1 {
+	font-family: Courier;
+	font-size: 72px;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+#main {
+	font-family: Courier;
+	font-size: 48px;
+	border: solid;
+	border-color: #ffffff;
+	color: #00ff00;
+}
